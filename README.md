@@ -9,8 +9,8 @@ __** Portfolio coming soon... **__
 
 ## :pushpin: Contact with me !
 
-[<img src="https://github.com/yushi1007/yushi1007/blob/main/images/linkedin.svg" alt="Linkedin link" width="40" height="40">](https://www.linkedin.com/in/ivan-torres-garcia/)
-[<img src="https://media.infojobs.net/appgrade/icons/ico-ij-android.png" alt="Info Jobs link" width="42" height="42">](https://www.infojobs.net/ivan-torres-garcia.prf)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" alt="Linkedin link" width="40" height="40">](https://www.linkedin.com/in/ivan-torres-garcia/)
+[<img src="https://user-images.githubusercontent.com/72036570/145469823-d223dde5-3afa-4d2e-94b9-045db0d4e470.png" alt="Info Jobs link" width="40" height="40">](https://www.infojobs.net/ivan-torres-garcia.prf)
 
 ## :books: Currently learning...
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
