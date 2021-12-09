@@ -5,6 +5,8 @@ I'm a web developer who wants to improve !
 
 ## Contact with me !
 
+[<img src="https://github.com/yushi1007/yushi1007/blob/main/images/linkedin.svg" alt="Linkedin link" width="40" height="40">](https://www.linkedin.com/in/ivan-torres-garcia/)
+[<img src="https://media.infojobs.net/appgrade/icons/ico-ij-android.png" alt="Info Jobs link" width="42" height="42">](https://www.infojobs.net/ivan-torres-garcia.prf)
 
 ## Currently learning...
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
