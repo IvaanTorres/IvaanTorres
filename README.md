@@ -5,6 +5,8 @@ I'm a passionate for the web and everything related to it. If I don't learn new 
 
 My main goal has always been to be a better version of myself every day.
 
+__** Portfolio coming soon... **__
+
 ## :pushpin: Contact with me !
 
 [<img src="https://github.com/yushi1007/yushi1007/blob/main/images/linkedin.svg" alt="Linkedin link" width="40" height="40">](https://www.linkedin.com/in/ivan-torres-garcia/)
