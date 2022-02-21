@@ -1,7 +1,7 @@
 ![cover linkedin1](https://user-images.githubusercontent.com/72036570/145439470-910ce7b2-4b14-43ca-8507-d0f2e9dc4350.jpg)
 
 ### Hi there, I'm Iván ! 👋
-I'm a passionate for the web and everything related to it. If I don't learn new things I get bored easily !
+I'm a passionate for the web and everything related to it !
 
 My main goal has always been to be a better version of myself every day.
 
