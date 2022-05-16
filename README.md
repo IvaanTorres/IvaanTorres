@@ -13,7 +13,9 @@ My main goal has always been to be a better version of myself every day.
 [<img src="https://user-images.githubusercontent.com/72036570/145469823-d223dde5-3afa-4d2e-94b9-045db0d4e470.png" alt="Info Jobs link" width="40" height="40">](https://www.infojobs.net/ivan-torres-garcia.prf)
 
 ## :books: Currently learning...
-
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ## :white_check_mark: Technical Skills
 ### Languages
