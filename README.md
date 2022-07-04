@@ -3,8 +3,6 @@
 ### Hi there, I'm Iván ! 👋
 I'm a passionate for the web and everything related to it !
 
-My main goal has always been to be a better version of myself every day.
-
 **Portfolio:** [ivantorresweb.com](https://www.ivantorresweb.com)
 
 ## :pushpin: Contact with me !
