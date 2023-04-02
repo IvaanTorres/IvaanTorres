@@ -3,7 +3,7 @@
 ### Hi there, I'm Iván ! 👋
 I'm a passionate for the web and everything related to it !
 
-**Portfolio:** [ivantorresweb.com](https://www.ivantorresweb.com)
+**Portfolio:** [https://ivantorresweb.netlify.app/](https://ivantorresweb.netlify.app/)
 
 ## :pushpin: Contact with me !
 
