@@ -38,7 +38,3 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-
-## :mag_right: GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvaanTorres&layout=compact)](https://github.com/IvaanTorres)
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=IvaanTorres&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
