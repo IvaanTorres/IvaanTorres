@@ -4,6 +4,6 @@
 
 **Portfolio:** [https://ivantorresweb.netlify.app/](https://ivantorresweb.netlify.app/)
 
-## :pushpin: Contact with me !
+## :pushpin: Contact me !
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" alt="Linkedin link" width="40" height="40">](https://www.linkedin.com/in/ivan-torres-garcia/)
